@@ -1,6 +1,6 @@
 # tools
 前端开发过程中常用到的一些使用的工具
-* [在线图片压缩工具](https://tinypng.com/)
+* [在线图片压缩工具 kraken.io tiny](https://kraken.io/web-interface)(https://tinypng.com/)
 * [一个 JavaScript](http://yibuyisheng.github.io/blogs/site/blogs/一个 JavaScript.html)
 * [CSS 语法速查](http://yibuyisheng.github.io/blogs/site/blogs/CSS 语法速查.html)
 * [CSS 空心字](http://yibuyisheng.github.io/blogs/site/blogs/CSS 空心字.html)
